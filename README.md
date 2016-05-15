@@ -44,13 +44,14 @@ More info [here](http://tensorflow.org).
 * [Neural Turing Machine in TensorFlow](https://github.com/carpedm20/NTM-tensorflow) - implementation of Neural Turing Machine
 * [GoogleNet Convolutional Neural Network Groups Movie Scenes By Setting] (https://github.com/agermanidis/thingscoop) - Search, filter, and describe videos based on objects, places, and other things that appear in them
 * [Neural machine translation between the writings of Shakespeare and modern English using TensorFlow](https://github.com/tokestermw/tensorflow-shakespeare) - This performs a monolingual translation, going from modern English to Shakespeare and vis-versa.
-* [Colornet - Neural Network to colorize grayscale images] (https://github.com/pavelgonchar/colornet) - Neural Network to colorize grayscale images
+* [Colornet] (https://github.com/pavelgonchar/colornet) - Neural Network to colorize grayscale images
 * [Neural Caption Generator](https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow) - Implementation of ["Show and Tell"](http://arxiv.org/abs/1411.4555)
 * [Neural Caption Generator with Attention](https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow) - Implementation of ["Show, Attend and Tell"](http://arxiv.org/abs/1502.03044)
 * [Weakly_detector](https://github.com/jazzsaxmafia/Weakly_detector) - Implementation of ["Learning Deep Features for Discriminative Localization"](http://cnnlocalization.csail.mit.edu/)
 * [Dynamic Capacity Networks](https://github.com/jazzsaxmafia/dcn.tf) - Implementation of ["Dynamic Capacity Networks"](http://arxiv.org/abs/1511.07838)
 * [HMM in TensorFlow](https://github.com/dwiel/tensorflow_hmm) - Implementation of viterbi and forward/backward algorithms for HMM
 * [DeepOSM](https://github.com/trailbehind/DeepOSM) - Train TensorFlow neural nets with OpenStreetMap features and satellite imagery.
+* [tf-glove](https://github.com/GradySimon/tensorflow-glove) - Implementation of [GloVe](http://nlp.stanford.edu/projects/glove/) (Global Vectors for Word Representation), a model for learning vector representations of words
 
 <a name="github-powered-by" />
 ## Powered by TensorFlow
